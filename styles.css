@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    display: flex;
+}
+
+.header{
+    background-image: url("images/h_img.jpg");
+}
+
+.services{
+    background-image: url("images/s_image.jpg");
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.form{
+    background-image: url("images/c_image.jpg");
+}
+
+.icons{
+    text-decoration: none;
+    display: flex;
+}

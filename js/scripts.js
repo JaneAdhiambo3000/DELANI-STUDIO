@@ -84,14 +84,14 @@ $(document).ready(function(){
   });
 });
 
-// $("button").click(function (Jane) {
-//   var client = document.getElementById('nameDetail').value;
-//   alert('Our Dear' + ' client,' + ' we have received your message successfully. ' + ' Thankyou.');
-//   event.preventDefault();
-//   });
-//   // button
-//   $("button").on('click', function () {
-//   $('form').each(function () {
-//   this.reset();
-//   });
-//   }); 
+$("button").click(function (Jane) {
+  var client = document.getElementById('nameDetail').value;
+  alert('Our Dear' + ' client,' + ' we have received your message successfully. ' + ' Thankyou.');
+  event.preventDefault();
+  });
+  // button
+  $("button").on('click', function () {
+  $('form').each(function () {
+  this.reset();
+  });
+  }); 

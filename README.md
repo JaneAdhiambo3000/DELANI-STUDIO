@@ -25,11 +25,11 @@ To fix a bug or enhance an existing module, follow these steps:
 
 
 ## BUILT WITH:
-JQUERY
-BOOTSTRAP
-HTML
-CSS
-JS
+- JQUERY
+- BOOTSTRAP
+- HTML
+- CSS
+- JS
 
 
 ## TEAM:
